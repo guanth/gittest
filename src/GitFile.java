@@ -1,5 +1,5 @@
 public class GitFile {
 	public static void main(String[] args) {
-		System.out.println("ÎÒ¾ÍÊÇÀ´ÕÒ²çµÄ");
+		System.out.println("æˆ‘å°±æ˜¯æ¥æ‰¾èŒ¬çš„");
 	}
 }
